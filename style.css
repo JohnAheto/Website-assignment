@@ -1,0 +1,53 @@
+/* General page styling */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f4f6f8;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+/* Navigation bar */
+nav {
+  background-color: #1e293b;
+  padding: 15px 0;
+}
+
+/* Navigation links */
+nav a {
+  color: #ffffff;
+  text-decoration: none;
+  margin: 0 15px;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+/* Hover effect */
+nav a:hover {
+  color: #38bdf8;
+  text-decoration: underline;
+}
+
+/* Page heading */
+h1 {
+  color: #1e293b;
+  margin-top: 40px;
+}
+
+/* Paragraph text */
+p {
+  color: #333333;
+  font-size: 17px;
+  width: 70%;
+  margin: 20px auto;
+  line-height: 1.6;
+}
+
+/* Footer line */
+hr {
+  border: none;
+  height: 2px;
+  background-color: #38bdf8;
+  width: 80%;
+  margin: 20px auto;
+}
